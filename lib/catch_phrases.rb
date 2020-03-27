@@ -8,3 +8,7 @@ end
 def toadstool
   puts $status
 end
+
+def link
+  puts "It's Dangerous to Go Alone! Take This."
+end 
